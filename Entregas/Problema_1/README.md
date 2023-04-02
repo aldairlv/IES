@@ -15,5 +15,7 @@ _Per exemple, el medicament 33 és incompatible per a la soci 17 ja que conté p
 
 Feu l’esquema conceptual d'aquest sistema en la notació UML. Expresseu gràficament totes les restriccions que pugueu. Les restriccions que no es poden expressar gràficament i les regles de derivació dels atributs derivats, si n’hi ha, especifiqueu-les textualment. Si us cal més informació, féu els supòsits que creieu més adients i indiqueu-los ben clarament.
 
+ <!--
  ![](sol_ex2.svg)
- 
+ -->
+ <center><img src="prob2_solucion.png"  width="300px" height="300px"></center>
