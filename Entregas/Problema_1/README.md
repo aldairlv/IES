@@ -18,4 +18,4 @@ Feu l’esquema conceptual d'aquest sistema en la notació UML. Expresseu gràfi
  <!--
  ![](sol_ex2.svg)
  -->
- <center><img src="prob2_solucion.png"  width="300px" height="300px"></center>
+ <center><img src="prob2_solucion.png"  width="60%" height="60%"></center>
